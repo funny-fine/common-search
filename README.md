@@ -1,0 +1,2 @@
+# common-search
+本项目是一个用于检索校内职能部门人员信息与部门信息的简单搜索引擎，主要使用Python进行编写，采用的web框架库为Django，底层引擎为elasticsearch。
